@@ -8,6 +8,8 @@ Bienvenido a la página de documentos legales de **Habitly**, la aplicación par
 
 - [Política de Privacidad](privacy.md)
 - [Términos y Condiciones](terms.md)
+- [Eliminar Cuenta](delete-account.md)
+- [Eliminar Datos](delete-data.md)
 
 ---
 
